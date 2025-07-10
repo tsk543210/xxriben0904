@@ -18,4 +18,4 @@
 
 从运营角度来看，应定期做SEO诊断，如关键词排名变化、页面收录情况、外链质量分析等，从而持续优化策略。
 
-<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0904 ）</span>
+<span style="display:none;">[Canonical link]( )</span>
